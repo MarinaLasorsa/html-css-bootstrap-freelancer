@@ -4,7 +4,7 @@
     color: white;
 }
 
-.logo {
+.logo, .title {
 	font-weight: bold;
 }
 
@@ -27,6 +27,25 @@
 
 .portfolio img {
 	border-radius: 10px;
+}
+
+form * {
+	border: none;
+    border-bottom: 1px solid grey;
+}
+
+::placeholder {
+	color:black;
+    opacity: none;
+}
+
+.send-btn {
+    text-align: start;
+    background-color: #1ABC9C;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
 }
 
 @media (min-width: 768px) {
