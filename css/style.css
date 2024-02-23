@@ -7,3 +7,16 @@
 .logo {
 	font-weight: bold;
 }
+
+.hero {
+	background-color: #1ABC9C;
+    color: white;
+}
+
+.hero img {
+	width: 200px;
+}
+
+.hero .subtitle {
+	font-size: 14px;
+}
