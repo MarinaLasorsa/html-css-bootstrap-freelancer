@@ -20,3 +20,11 @@
 .hero .subtitle {
 	font-size: 14px;
 }
+
+.portfolio {
+	color: #2C3E50;
+}
+
+.portfolio img {
+	border-radius: 10px;
+}
