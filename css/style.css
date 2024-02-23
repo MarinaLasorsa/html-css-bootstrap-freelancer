@@ -1,20 +1,9 @@
-/*RESET*/
 
-ul,ol,menu {
-	list-style: none;
+.page-header {
+	background-color: #2C3E50;
+    color: white;
 }
 
-/*LAYOUT*/
-
-
-
-
-/*DEBUG*/
-
-.container {
-	border: 1px solid red;
-}
-
-*[class^='col'], div[class*=' col'] {
-	border: 1px solid rgb(51, 0, 255);
+.logo {
+	font-weight: bold;
 }
